@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "route": "/restaurant",
+      "address": "http://localhost:3001/restaurant/"
+    },
+    {
+      "route": "/users",
+      "address": "http://localhost:3003/users/"
+    },
+    {
+      "route": "/orders",
+      "address": "http://localhost:3002/orders/"
+    }
+  ]
+}
